@@ -29,5 +29,10 @@
     "presets": [
       "es2015"
     ]
+  },
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "nodemon": "^2.0.2",
+    "underscore": "^1.9.1"
   }
 }
